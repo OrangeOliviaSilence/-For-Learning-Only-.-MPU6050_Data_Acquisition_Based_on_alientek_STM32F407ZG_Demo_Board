@@ -1,0 +1,6 @@
+mpu6050.c:17:9:MPU_GetSMPLART_DIV	24	static
+mpu6050.c:36:6:MPU_GetAcceler	48	static
+mpu6050.c:49:6:MPU_GetGyro	48	static
+mpu6050.c:63:6:MPU_GetTemper	40	static
+mpu6050.c:76:9:MPU_WriteLenByte	32	static
+mpu6050.c:82:9:MPU_ReadLenByte	32	static
